@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Chojnowski_Tic_Tac_Toe</string>
+    <string name="action_settings">Settings</string>
+	<string name="none"></string>
+	<string name="title">TIC TAC TOE\nX player: 0\nO player: 0</string>
+	
+	<string name="reset">RESET GAME</string>
+	<string name="player">O</string>
+</resources>
